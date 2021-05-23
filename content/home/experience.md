@@ -46,9 +46,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * 
+        * abc
         * Organised logistics and production for assigned clients
-        * 
+        * abc
   
   - title: CEO
     company: GenCoin
