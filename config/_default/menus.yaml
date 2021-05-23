@@ -28,7 +28,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 70
-  - name: CV
+  - name: View CV
     url: 'files/mateuszwasalskicv.pdf'
     weight: 70
 
