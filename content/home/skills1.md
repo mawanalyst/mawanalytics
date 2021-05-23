@@ -29,8 +29,8 @@ feature:
   icon_pack: fas
   name: SQL
 - description: Advanced
-  icon: file-excel
-  icon_pack: fas
+  icon: excel
+  icon_pack: custom
   name: MS EXcel
 - description: Intermediate
   icon: file-powerpoint
