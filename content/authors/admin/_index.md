@@ -57,7 +57,7 @@ social:
   link: https://github.com/mawanalyst
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/mateusz-wasalski
+  link: https://www.linkedin.com/in/mateusz-wasalski/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
