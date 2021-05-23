@@ -26,7 +26,7 @@ experience:
     company: PCC Intermodal
     #company_url: ''
     #company_logo: org-gc
-    location: Sosnowiec, Poland
+    location: 'Sosnowiec, Poland'
     date_start: '2020-07'
     date_end: ''
     description: |2-
