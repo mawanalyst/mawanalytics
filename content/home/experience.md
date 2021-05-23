@@ -69,7 +69,7 @@ experience:
     company: Jeronimo Martins Polska
     #company_url: ''
     #company_logo: org-gc
-    location: Silesia
+    location: Sosnowiec
     date_start: '2016-02-01'
     date_end: '2018-01-31'
     description: |2-
@@ -83,7 +83,7 @@ experience:
     company: Jeronimo Martins Polska
     #company_url: ''
     #company_logo: org-gc
-    location: Silesia
+    location: Sosnowiec
     date_start: '2014-09-01'
     date_end: '2016-01-31'
     description: |2-
