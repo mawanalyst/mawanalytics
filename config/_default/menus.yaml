@@ -28,6 +28,9 @@ main:
   - name: Contact
     url: '#contact'
     weight: 70
+  - name: CV
+    url: 'files/Data_Science_With_R_Workflow.pdf'
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
