@@ -26,15 +26,15 @@ experience:
     company: PCC Intermodal
     #company_url: ''
     #company_logo: org-gc
-    location: Sosnowiec
+    location: Sosnowiec, Poland
     date_start: '2020-07'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Gnerating weekly and monthly operational reports
-        * Creating Ad-hoc reports for the needs of the management team
-        * Co-writing tenders 
+        * Analysing
+        * Modelling
+        * Deploying
   
   - title: CEO
     company: GenCoin
