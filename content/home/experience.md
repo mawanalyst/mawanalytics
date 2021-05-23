@@ -42,27 +42,28 @@ experience:
     #company_logo: org-gc
     location: Czeladz
     date_start: '2019-09-01'
-    date_end: '2020-05-30'
+    date_end: '2020-05-31'
+    description: |2-
+        Responsibilities include:
+        
+        * 
+        * 
+        * Organised logistics and production for assigned clients
+        * 
+  
+  - title: Perishables Sales Manager
+    company: Jeronimo Martins Polska
+    #company_url: ''
+    #company_logo: org-gc
+    location: Silesia
+    date_start: '2018-02-01'
+    date_end: '2019-06-30'
     description: |2-
         Responsibilities include:
         
         * Managed a team of 200 people in 12 stores 
         * Maximizing profit
         * Minimizing losses
-  
-  - title: Analysis and Investments Officer
-    company: PCC Intermodal
-    #company_url: ''
-    #company_logo: org-gc
-    location: Sosnowiec
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Generating weekly and monthly operational reports
-        * Creating Ad-hoc reports for the needs of the management team
-        * Co-writing tendersg
   
   - title: Analysis and Investments Officer
     company: PCC Intermodal
