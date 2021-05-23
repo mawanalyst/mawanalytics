@@ -64,34 +64,36 @@ experience:
         * Managed a team of 200 people in 12 stores 
         * Maximizing profit
         * Minimizing losses
+        * Analyzing sales data and preparing reports for Executives
   
-  - title: Analysis and Investments Officer
-    company: PCC Intermodal
+  - title: Customer Service Coordinator
+    company: Jeronimo Martins Polska
     #company_url: ''
     #company_logo: org-gc
-    location: Sosnowiec
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Silesia
+    date_start: '2016-02-01'
+    date_end: '2018-01-31'
     description: |2-
         Responsibilities include:
         
-        * Generating weekly and monthly operational reports
-        * Creating Ad-hoc reports for the needs of the management team
-        * Co-writing tendersg
+        * 
+        * 
+        * 
+        * 
         
-  - title: Analysis and Investments Officer
-    company: PCC Intermodal
+  - title: Regional Accounts Payable Specialist
+    company: Jeronimo Martins Polska
     #company_url: ''
     #company_logo: org-gc
-    location: Sosnowiec
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Silesia
+    date_start: '2014-09-01'
+    date_end: '2016-01-31'
     description: |2-
         Responsibilities include:
         
-        * Generating weekly and monthly operational reports
-        * Creating Ad-hoc reports for the needs of the management team
-        * Co-writing tendersg.
+        * Analyzing profits and losses 
+        * Clarifying quantitive difeerences between stores and warehouse
+        * Handling reports on third party and property damage
 
 design:
   columns: '2'
