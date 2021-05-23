@@ -45,14 +45,6 @@ experience:
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
-  - title: Perishables Sales Manager
-    company: 
-    location:
-    date_start:
-    date_end:
-    description:
-
-
 design:
   columns: '2'
 ---
