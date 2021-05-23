@@ -29,7 +29,7 @@ main:
     url: '#contact'
     weight: 70
   - name: CV
-    url: 'files/Data_Science_With_R_Workflow.pdf'
+    url: 'files/mateuszwasalskicv.pdf'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
