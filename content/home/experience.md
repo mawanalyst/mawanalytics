@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Analysis and Investments Officer
+    company: PCC Intermodal
     #company_url: ''
     #company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Sosnowiec, Poland
+    date_start: '2020-07'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Gnerating weekly and monthly operational reports
+        * Creating Ad-hoc reports for the needs of the management team
+        * Co-writing tenders 
   
   - title: CEO
     company: GenCoin
@@ -66,8 +66,8 @@ experience:
   
   - title: CEO
     company: GenCoin
-    company_url: ''
-    company_logo: org-gc
+    #company_url: ''
+    #company_logo: org-gc
     location: California
     date_start: '2021-01-01'
     date_end: ''
