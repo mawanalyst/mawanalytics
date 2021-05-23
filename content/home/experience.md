@@ -36,19 +36,19 @@ experience:
         * Creating Ad-hoc reports for the needs of the management team
         * Co-writing tenders
   
-  - title: Sales and Customer Service Specialist
-    company: DS Smith
+  - title: Sales & Customer Service Specialist
+    company: GenCoin
     #company_url: ''
     #company_logo: org-gc
-    location: Czeladz
-    date_start: '2019-09'
-    date_end: '2020-05'
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
-        * abc
-        * Organised logistics and production for assigned clients
-        * abc
+        * Analysing
+        * Modelling
+        * Deploying
   
   - title: CEO
     company: GenCoin
