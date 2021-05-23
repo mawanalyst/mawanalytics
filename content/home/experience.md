@@ -46,10 +46,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * 
-        * 
-        * Organised logistics and production for assigned clients
-        * 
+        * Preparing sales and and inventory reports
+        * Organising logistics and production for assigned clients
+        * Teaching coworkers the basics of Lean
   
   - title: Perishables Sales Manager
     company: Jeronimo Martins Polska
@@ -76,10 +75,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * 
-        * 
-        * 
-        * 
+        * Preparing personalised answers for individual and corporate customers
+        * Co-creating Facebook fanpage
+        * Preparing reports on the functioning of the Call Center in cooperation with an external company
         
   - title: Regional Accounts Payable Specialist
     company: Jeronimo Martins Polska
@@ -92,7 +90,7 @@ experience:
         Responsibilities include:
         
         * Analyzing profits and losses 
-        * Clarifying quantitive difeerences between stores and warehouse
+        * Clarifying quantitive differences between stores and warehouse
         * Handling reports on third party and property damage
 
 design:
