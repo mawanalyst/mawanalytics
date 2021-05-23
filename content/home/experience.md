@@ -36,19 +36,19 @@ experience:
         * Creating Ad-hoc reports for the needs of the management team
         * Co-writing tenders
   
-  - title: Sales & Customer Service Specialist
-    company: GenCoin
+  - title: Analysis and Investments Officer
+    company: PCC Intermodal
     #company_url: ''
     #company_logo: org-gc
-    location: California
+    location: Sosnowiec
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Generating weekly and monthly operational reports
+        * Creating Ad-hoc reports for the needs of the management team
+        * Co-writing tendersg
   
   - title: CEO
     company: GenCoin
