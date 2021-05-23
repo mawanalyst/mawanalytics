@@ -6,7 +6,7 @@ title: Mateusz Wąsalski
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Junior Data Scientist
 
 # Organizations/Affiliations to show in About widget
 #organizations:
