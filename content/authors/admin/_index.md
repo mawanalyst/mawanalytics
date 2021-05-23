@@ -77,4 +77,4 @@ Aspiring Data Scientist focused on projects related to broad banking and credit 
 
 Passionate about hiking and mountain running, road cycling and amateur photography.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/mateuszwasalskicv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/mateuszwasalskicv.pdf" "newtab" >}}resumé{{< /staticref >}}.
