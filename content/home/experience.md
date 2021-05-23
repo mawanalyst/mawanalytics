@@ -79,7 +79,6 @@ experience:
         * 
         * 
         * 
-        * 
 
   - title: Regional Accounts Payable Specialist
     company: Jeronimo Martins Polska 
