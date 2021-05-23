@@ -50,42 +50,47 @@ experience:
         * Creating Ad-hoc reports for the needs of the management team
         * Co-writing tendersg
   
-  - title: CEO
-    company: GenCoin
-    #ompany_url: ''
+  - title: Analysis and Investments Officer
+    company: PCC Intermodal
+    #company_url: ''
     #company_logo: org-gc
-    location: California
+    location: Sosnowiec
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Generating weekly and monthly operational reports
+        * Creating Ad-hoc reports for the needs of the management team
+        * Co-writing tendersg
   
-  - title: CEO
-    company: GenCoin
+  - title: Analysis and Investments Officer
+    company: PCC Intermodal
     #company_url: ''
     #company_logo: org-gc
-    location: California
+    location: Sosnowiec
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Generating weekly and monthly operational reports
+        * Creating Ad-hoc reports for the needs of the management team
+        * Co-writing tendersg
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Analysis and Investments Officer
+    company: PCC Intermodal
     #company_url: ''
-    #company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    #company_logo: org-gc
+    location: Sosnowiec
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Generating weekly and monthly operational reports
+        * Creating Ad-hoc reports for the needs of the management team
+        * Co-writing tendersg.
 
 design:
   columns: '2'
