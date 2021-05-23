@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Generating weekly and monthly operational reports
+        * Creating Ad-hoc reports for the needs of the management team
+        * Co-writing tenders
   
   - title: CEO
     company: GenCoin
