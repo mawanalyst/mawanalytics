@@ -60,7 +60,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Managed a team of 200 people in 12 stores 
+        * Managing a team of 200 people in 12 stores 
         * Maximizing profit
         * Minimizing losses
         * Analyzing sales data and preparing reports for Executives
