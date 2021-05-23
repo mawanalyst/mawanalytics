@@ -29,7 +29,7 @@ feature:
   icon_pack: fas
   name: SQL
 - description: Advanced
-  icon: excel
+  icon: kubernetes
   icon_pack: custom
   name: MS EXcel
 - description: Intermediate
