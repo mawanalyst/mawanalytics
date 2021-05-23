@@ -41,8 +41,8 @@ experience:
     #company_url: ''
     #company_logo: org-gc
     location: Czeladz
-    date_start: '2019-09'
-    date_end: '2020-05'
+    date_start: '2019-09-01'
+    date_end: '2020-05-30'
     description: |2-
         Responsibilities include:
         
