@@ -50,7 +50,7 @@ experience:
     location:
     date_start:
     date_end:
-    description: |2-
+    description:
 
 
 design:
