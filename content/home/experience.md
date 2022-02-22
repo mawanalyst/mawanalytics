@@ -38,8 +38,8 @@ experience:
     #company_url: ''
     #company_logo: org-gc
     location: Sosnowiec
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2020-07-01'
+    date_end: '2022-01-31'
     description: |2-
         Responsibilities include:
         
