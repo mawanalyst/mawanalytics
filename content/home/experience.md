@@ -34,7 +34,7 @@ experience:
         
   
   - title: Analysis and Investments Officer
-    company: PCC Intermodall
+    company: PCC Intermodal
     #company_url: ''
     #company_logo: org-gc
     location: Sosnowiec
