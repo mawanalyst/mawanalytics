@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Analysis and Investments Officer
-    company: PCC Intermodal
+    company: PCC Intermodall
     #company_url: ''
     #company_logo: org-gc
     location: Sosnowiec
